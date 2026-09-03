@@ -5,19 +5,20 @@ countdown to 3 December 2026.
 
 ## Files
 
-| File | What it is | Required |
-|---|---|---|
-| `index.html` | The whole site. Card artwork and a 72-second shehnai clip are inside it. | yes |
-| `shehnai.mp3` | The full 2½-minute recording. Used automatically once hosted. | no |
-| `preview.jpg` | The thumbnail WhatsApp and iMessage show when the link is shared. | no |
+| File | What it is |
+|---|---|
+| `index.html` | The page itself, 30 KB. Small enough to edit in GitHub's browser editor. |
+| `card-ganesh.jpg`, `card-invite.jpg`, `card-events.jpg` | The three invitation cards. |
+| `shehnai.mp3` | The shehnai, 2½ minutes from 1:30. |
+| `preview.jpg` | The thumbnail WhatsApp shows when the link is shared. |
 
-`index.html` works alone. The other two make it better when hosted.
+All six live side by side in the repository root. Nothing goes in folders.
 
 ## Publishing on GitHub Pages
 
 ### Through the website, no commands
 
-1. Go to (https://hemabh6.github.io/wedding-card/). Name the repository something like
+1. Go to <https://github.com/new>. Name the repository something like
    `akanksha-aditya`. Set it to **Public** — Pages needs public on a free
    account. Create it.
 2. On the new repository page, click **uploading an existing file**.
