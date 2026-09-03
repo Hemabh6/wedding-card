@@ -17,7 +17,7 @@ countdown to 3 December 2026.
 
 ### Through the website, no commands
 
-1. Go to [<https://github.com/new>](https://hemabh6.github.io/wedding-card/). Name the repository something like
+1. Go to (https://hemabh6.github.io/wedding-card/). Name the repository something like
    `akanksha-aditya`. Set it to **Public** — Pages needs public on a free
    account. Create it.
 2. On the new repository page, click **uploading an existing file**.
